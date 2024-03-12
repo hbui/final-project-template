@@ -1,1 +1,1 @@
-# final-project-template
+# CS 489 - Final Project
